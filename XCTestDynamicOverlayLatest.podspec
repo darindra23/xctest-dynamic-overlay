@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint XCTestDynamicOverlay.podspec' to ensure this is a
+# Be sure to run `pod lib lint XCTestDynamicOverlayLatest.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'XCTestDynamicOverlay'
+  s.name             = 'XCTestDynamicOverlayLatest'
   s.version          = '0.8.4'
   s.summary          = 'Define XCTest assertion helpers directly in your application and library code.'
   s.description      = <<-DESC
